@@ -1,0 +1,12 @@
+Pr/Pr-4f-exc.psp8
+Nd/Nd-4f-exc.psp8
+Pm/Pm-4f-exc.psp8
+Sm/Sm-4f-exc.psp8
+Eu/Eu-4f-exc.psp8
+Gd/Gd-4f-exc.psp8
+Tb/Tb-4f-exc.psp8
+Dy/Dy-4f-exc.psp8
+Ho/Ho-4f-exc.psp8
+Er/Er-4f-exc.psp8
+Tm/Tm-4f-exc.psp8
+Yb/Yb-4f-exc.psp8

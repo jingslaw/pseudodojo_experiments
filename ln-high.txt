@@ -1,0 +1,14 @@
+Ce/Ce-4f-high.psp8
+Pr/Pr-4f-high.psp8
+Nd/Nd-4f-high.psp8
+Pm/Pm-4f-high.psp8
+Sm/Sm-4f-high.psp8
+Eu/Eu-4f-high.psp8
+Gd/Gd-4f-high.psp8
+Tb/Tb-4f-high.psp8
+Dy/Dy-4f-high.psp8
+Ho/Ho-4f-high.psp8
+Er/Er-4f-high.psp8
+Tm/Tm-4f-high.psp8
+Yb/Yb-4f-high.psp8
+Lu/Lu-4f-high.psp8
